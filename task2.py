@@ -1,3 +1,3 @@
-operand_1 = int(input("Enter Operand_1: "))
-operand_2 = int(input("Enter Operand_2: "))
-print(operand_1 * operand_2)
+first = input("Enter your first name: ")
+last = input("Enter your last name: ")
+print("hello, "+first+" "+last+"! Welcome to the Python program")
